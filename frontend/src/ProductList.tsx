@@ -5,6 +5,7 @@ export default function ProductList() {
     <div title="ProductList">
       <p> product list </p>
       <Product></Product>
+      <Product></Product>
     </div>
   )
 }
